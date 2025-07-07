@@ -19,9 +19,9 @@ In this serverless landscape, AWS Lambda shines as a leading service. AWS Lambda
 
 How Lambda Functions Fit into the Serverless World
 At the heart of AWS Lambda are "Lambda functions." These are individual units of code that perform specific tasks. Think of them as small, single-purpose applications that run independently.
----
-Here's how Lambda functions fit into the serverless world:
 
+Here's how Lambda functions fit into the serverless world:
+---
 Event-Driven Execution: Lambda functions are triggered by events. An event could be anything, like a new file being uploaded to Amazon S3, a request hitting an API, or a specific time on the clock. When an event occurs, Lambda executes the corresponding function.
 
 No Server Management: As a developer, you don't need to worry about managing servers. AWS handles everything behind the scenes. You just upload your code, configure the trigger, and Lambda takes care of the rest.
